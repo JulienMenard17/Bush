@@ -1,0 +1,6 @@
+name: Bush
+version: 0.1
+main: ca.sharkmenard.bush.Main
+author: SharkMenard
+commands:
+  givebush:
